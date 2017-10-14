@@ -1,0 +1,22 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/scala"/>
+  <classpathentry output="-root-Downloads-calculator-src-main-scala-calculator" kind="src" path="-root-Downloads-calculator-src-main-scala-calculator"/>
+  <classpathentry sourcepath="/root/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-library_2.11/0.6.11/scalajs-library_2.11-0.6.11-sources.jar" kind="lib" path="/root/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-library_2.11/0.6.11/scalajs-library_2.11-0.6.11.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/root/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-library_2.11/0.6.11/scalajs-library_2.11-0.6.11-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+  <classpathentry sourcepath="/root/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-test-interface_2.11/0.6.11/scalajs-test-interface_2.11-0.6.11-sources.jar" kind="lib" path="/root/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-test-interface_2.11/0.6.11/scalajs-test-interface_2.11-0.6.11.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/root/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-test-interface_2.11/0.6.11/scalajs-test-interface_2.11-0.6.11-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/root/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs0.6_2.11/0.8.0/scalajs-dom_sjs0.6_2.11-0.8.0-sources.jar" kind="lib" path="/root/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs0.6_2.11/0.8.0/scalajs-dom_sjs0.6_2.11-0.8.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/root/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs0.6_2.11/0.8.0/scalajs-dom_sjs0.6_2.11-0.8.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
